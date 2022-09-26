@@ -54,7 +54,7 @@ ${jobEmoji} I am a ${occupation}.
 Find me here:
 
 # ${rocket} GitHub 
-https://github.com/${githubUser} /
+https://github.com/${githubUser}/
 
 # ${camera} Behance 
 https://behance.net/${behanceUser}/
