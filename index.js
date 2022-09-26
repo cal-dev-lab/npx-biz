@@ -8,6 +8,8 @@
     NPM repo:       https://www.npmjs.com/package/npx-biz/
 */
 
+// TODO: Make this a console selected input in the terminal to populate variables
+
 // Create emoji
 const emoji = require("node-emoji");
 
@@ -37,7 +39,6 @@ const mail = emoji.get("mailbox");                  // Email emoji
 const phone = emoji.get("phone");                   // Phone emoji
 const emailAddress = "user@domain.com";             // Your email address
 const phoneNumber = "07537735777";                  // Your phone number
-
 
 console.log(`
 
