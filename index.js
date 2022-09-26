@@ -8,7 +8,11 @@
     NPM repo:       https://www.npmjs.com/package/npx-biz/
 */
 
+// TODO: Moodboard npx-biz logo and fonts
+// TODO: Find cool functionalities
+// TODO: Find colours for text
 // TODO: Make this a console selected input in the terminal to populate variables
+// TODO: Make website and document code and next steps
 
 // Create emoji
 const emoji = require("node-emoji");
