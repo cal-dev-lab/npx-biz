@@ -2,9 +2,10 @@
 
 /*
     I will be working on this alone but I am open to
-    other developers work on this and make suggestions.
+    other developers to work on this and make suggestions.
 
     Source repo:    https://github.com/cal-dev-lab/npx-biz/
+    NPM repo:       https://www.npmjs.com/package/npx-biz/
 */
 
 // Create emoji
