@@ -52,7 +52,7 @@ Find me here:
 https://github.com/${githubUser} /
 
 # ${camera} Behance 
-https://behance.net/${behanceUser} /
+https://behance.net/${behanceUser}/
 
 # ${picture} Instagram
 https://instagram.com/${instagramUser}/
@@ -61,7 +61,7 @@ https://instagram.com/${instagramUser}/
 https://instagram.com/${twitterUser}/
 
 # ${web} Website 
-https://${domain} /
+https://${domain}/
 
 =====================
 
