@@ -9,11 +9,16 @@
 */
 
 // Next-steps:
+// TODO: Use require and split variables into module section files
 // TODO: Moodboard npx-biz logo and fonts
 // TODO: Find cool functionalities
 // TODO: Find colours for text
 // TODO: Make this a console selected input in the terminal to populate variables
 // TODO: Make website and document code and next steps
+
+// Emoji list
+// Created lib folder containing JSON emojis, open for PRs
+// https://raw.githubusercontent.com/omnidan/node-emoji/master/lib/emoji.json
 
 // Create emoji
 const emoji = require("node-emoji");
